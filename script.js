@@ -1,4 +1,3 @@
-//your JS code here. If required.
 document.getElementById('getWeatherBtn').addEventListener('click', function() {
     // Replace 'YOUR_API_KEY' with your actual OpenWeatherMap API key
     const apiKey = 'YOUR_API_KEY';
